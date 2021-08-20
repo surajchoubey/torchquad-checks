@@ -29,3 +29,4 @@ for i in range(1,11):
 	integration_domain.append([-1,1])
 	result = mc.integrate(f_2, dim=i, N=1000000, integration_domain = integration_domain)
 	print("Integral value = " ,result.item())
+
