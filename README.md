@@ -37,7 +37,7 @@ Link to Simple MC Integration: https://github.com/GeomScale/volesti/pull/163
 ### Using Torchquad Monte Carlo against Lovasz Vempala MC Integration:
 Link to torchquad: https://torchquad.readthedocs.io/en/latest/
 
-Link to Lovasz Vempala MC Integration: https://github.com/pulls
+Link to Lovasz Vempala MC Integration: https://github.com/pull/170
 
 | DIMENSIONS | TORCHQUAD   | RUNTIME     | LV MC (W/O VOLM CORRECTION) | REL ERROR LVMC |
 | ---------- | ----------- | ----------- | --------------------------- | -------------- |
@@ -68,7 +68,7 @@ Link to Lovasz Vempala MC Integration: https://github.com/pulls
 ![integration values comparison b/w torchquad, lovasz vempala and simple mc integration](VERSUS.png)
 
 ### Relative Error
-Relative Error = (expected - exact)/exact
+Relative Error = (COMPUTED - EXACT)/EXACT
 
 ![relative error b/w simple mc and lovasz vempala mc](RelativeError.png)
 
