@@ -65,12 +65,13 @@ Link to Lovasz Vempala MC Integration: https://github.com/pulls
 ## GRAPHS ADDRESSING ABOVE BENCHMARKS
 
 ### Integration Values
-!(integration values comparison b/w torchquad, lovasz vempala and simple mc integration)[VERSUS.png]
+![integration values comparison b/w torchquad, lovasz vempala and simple mc integration](VERSUS.png)
 
 ### Relative Error
 Relative Error = (expected - exact)/exact
-!(relative error b/w simple mc and lovasz vempala mc)[RelativeError.png]
+
+![relative error b/w simple mc and lovasz vempala mc](RelativeError.png)
 
 ### RUNTIME (in ms)
-!(runtime comparison between torchquad, lovasz vempala and simple mc integration)[RUNTIME.png]
+![runtime comparison between torchquad, lovasz vempala and simple mc integration](RUNTIME.png)
 
