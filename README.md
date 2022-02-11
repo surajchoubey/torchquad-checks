@@ -1,4 +1,4 @@
-## LOVASZ-VEMPALA MONTE CARLO INTEGRATION TESTS
+# LOVASZ-VEMPALA MONTE CARLO INTEGRATION TESTS
 
 Link to the blog post: https://surajchoubey.github.io/gsoc21/lv-mc-integration/
 <br><br>
